@@ -24,7 +24,7 @@ Our `printf` implementation will include the following key features:
 
 For any questions, feedback, or collaboration opportunities, please reach out to:
 
-- Boaz - [boazsagini61]
+- Boaz - boazsagini62@gmail.com.
 - Hellen - hellena243@gmail.com
 
 We hope you find our `printf` project useful and educational for your software engineering journey. Happy coding!
